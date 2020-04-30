@@ -1,3 +1,7 @@
 hello group:
 
 this is how to use github desktop
+
+Qi Sun
+Gege Li
+Yusen Wu
